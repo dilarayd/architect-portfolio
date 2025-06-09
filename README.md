@@ -19,7 +19,8 @@ You can open the `index.html` file in your browser to see the portfolio in actio
 
 ## Live Demo
 
-Coming soon!
+Check out the live version of the portfolio here:  
+[https://dilarayd.github.io/architect-portfolio/](https://dilarayd.github.io/architect-portfolio/)
 
 ## License
 
